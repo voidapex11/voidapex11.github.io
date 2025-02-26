@@ -1,0 +1,2 @@
+## Introduction
+I have attempted to build a blog a couple of times, using different frameworks and tools. I built a working blog in the python framework [Django](https://github.com/voidapex11/django-blogging) which I stopped working on as there was no free methods of hosting it (for free). Eventually I returned to the idea and tried out quartz, a free, static site framework. Whilst quartz didn't have many of my old blogs features, it was free and, more importantly, it worked with .github.io dormains.
