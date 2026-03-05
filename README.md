@@ -1,4 +1,5 @@
 # voidapex11.github.io
+[![Deploy Quartz site to GitHub Pages](https://github.com/voidapex11/voidapex11.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/voidapex11/voidapex11.github.io/actions/workflows/deploy.yml)
 This is a blog made using Quartz
 quartz propeganda:
 ## Quartz v4
