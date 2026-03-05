@@ -14,4 +14,4 @@ Neural is a work in progress neural network training library. I will publish it 
 - publish it on crates.io
 - properly run a network
 - import and export networks
-#devlog
+#devlog #abandoned
